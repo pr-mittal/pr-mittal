@@ -10,6 +10,9 @@ I am a Student at IIT(BHU) , Varanasi and currently exploring various domains.
 - 😄 Pronouns: he/mister
 - ⚡ Fun fact: If I could have any superpower, it would be to pass through materials
 
+Roses are red, violets are blue
+Unexpected '}' on line 32
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>

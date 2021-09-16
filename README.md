@@ -32,6 +32,8 @@ I am a Student at IIT(BHU) , Varanasi and currently exploring various domains.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SiliconMerc&show_icons=true&theme=synthwave" alt="SiliconMerc :: Profile Stats" /></p>
 
+[![SiliconMerc's github activity graph](https://activity-graph.herokuapp.com/graph?username=SiliconMerc&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ⭐️ From [SiliconMerc](https://github.com/SiliconMerc)

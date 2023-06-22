@@ -26,18 +26,18 @@ Unexpected '}' on line 32
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SiliconMerc}/count.svg" alt="SiliconMerc :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{pr-mittal}/count.svg" alt="pr-mittal :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiliconMerc&langs_count=10&theme=tokyonight&layout=compact" alt="Siliconmerc :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-mittal&langs_count=10&theme=tokyonight&layout=compact" alt="pr-mittal :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SiliconMerc&show_icons=true&theme=synthwave" alt="SiliconMerc :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pr-mittal&show_icons=true&theme=synthwave" alt="pr-mittal :: Profile Stats" /></p>
 
-[![SiliconMerc's github activity graph](https://activity-graph.herokuapp.com/graph?username=SiliconMerc&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![pr-mittal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pr-mittal&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐️ From [SiliconMerc](https://github.com/SiliconMerc)
+⭐️ From [pr-mittal](https://github.com/pr-mittal)

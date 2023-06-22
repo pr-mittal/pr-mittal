@@ -36,8 +36,6 @@ Unexpected '}' on line 32
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pr-mittal&show_icons=true&theme=synthwave" alt="pr-mittal :: Profile Stats" /></p>
 
-[![pr-mittal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pr-mittal&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ⭐️ From [pr-mittal](https://github.com/pr-mittal)
